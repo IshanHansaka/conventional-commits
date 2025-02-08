@@ -119,8 +119,6 @@ By adopting Conventional Commits, you ensure that your commit history remains cl
 
 ### Start committing like a pro today! 🚀
 
----
-
 ### 📌 Read More
 - [Conventional Commits](https://www.conventionalcommits.org/)
 - [Conventional Commits Cheat Sheet](https://github.com/qoomon/conventional-commits-cheatsheet.md)
