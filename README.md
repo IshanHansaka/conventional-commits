@@ -1,7 +1,7 @@
 # Commit Like a Pro: Master Git with Conventional Commits
 
 ### Improve Your Git Commits by Using Conventional Commits to Adopt Industry Best Practices for Clear, Consistent, and Efficient Version Control
-![Conventionnal Commits](image/1_vDNSUqlGVEhK2Zf8fBIqFg.png)
+![Conventionnal Commits](images/1_vDNSUqlGVEhK2Zf8fBIqFg.png)
 
 Have you ever looked at a Git commit history and struggled to understand what changes were made? Take a look at this example commit history:
 
